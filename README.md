@@ -33,6 +33,9 @@
 
 ![Screenshot 2024-12-22 132711](https://github.com/user-attachments/assets/44163dd6-1699-49f5-891b-76f1feb35aa9)
 
+### Demo Result Vedio
+#### https://drive.google.com/drive/u/0/folders/101vbnsEfZnc7oNTn4uamgInIFSybTOZU
+
 ### Conclusion
 #### The multi-agent system successfully automates the process of researching AI and GenAI use cases for companies in various industries. By leveraging advanced tools like Langchain and Google’s Gemini-Pro, the system provides tailored, actionable insights that companies can use to enhance operations and customer satisfaction. The ability to collect relevant resources further supports the implementation of these use cases, ensuring that companies are well-equipped to leverage AI/ML technologies
 
