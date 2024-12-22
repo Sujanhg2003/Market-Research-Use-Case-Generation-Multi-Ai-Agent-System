@@ -1,4 +1,4 @@
-## Market Research Use Case Generation Multi Ai Agent System
+### Market Research Use Case Generation Multi Ai Agent System
 
 ### Abstract
 #### The objective of this project is to design and implement a multi- agent system that generates relevant AI and Generative AI (GenAI) use cases for a given company or industry. The system conducts in- depth market research, analyzes industry trends, and provides a comprehensive set of resources aimed at enhancing operational efficiency and customer experience through AI/ML solutions. This project lever- ages cutting-edge tools such as Langchain and Google Generative AI (Gemini-Pro) to automate the research and use case generation pro- cess, thereby offering practical insights to organizations invarious sectors.
